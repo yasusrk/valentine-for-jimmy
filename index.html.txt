@@ -68,8 +68,8 @@
             "dudu-surprise.gif",             // 1st No
             "dudu-wearing-glasses-standing.gif", // 2nd No
             "hi.gif",                        // 3rd No
-            "Cry.gif",                       // 4th No
-            "Cry2.gif"                       // 5th No
+            "cry.gif",                       // 4th No
+            "cry2.gif"                       // 5th No
         ];
 
         const messages = [
